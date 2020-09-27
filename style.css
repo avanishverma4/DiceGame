@@ -137,9 +137,33 @@ i {
     transition: margin 0.3s;
 }
 
-.btn-new { top: 45px;}
-.btn-roll { top: 403px;}
-.btn-hold { top: 467px;}
+.btn-new { 
+    top: 45px;
+    border: 1px solid #EB4D4D;
+    border-radius: 5px;
+    background: none;
+    width: 100px;
+    height: 50px;
+}
+
+.btn-roll { 
+    top: 403px;
+    border: 1px solid #EB4D4D;
+    border-radius: 5px;
+    background: none;
+    width: 100px;
+    height: 50px;
+}
+
+.btn-hold { 
+    top: 467px;
+    border: 1px solid #EB4D4D;
+    border-radius: 5px;
+    background: none;
+    width: 100px;
+    height: 50px;
+}
+
 .modal-btn { 
     top: 531px;
     border: 1px solid #EB4D4D;
